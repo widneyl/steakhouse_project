@@ -16,7 +16,7 @@ export default function FirstPage() {
                     <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br/> Etiam eget ligula eu lectus lobortis condimentum.<br/> Aliquam nonummy auctor massa. Pellentesque habitant morbi<br/> tristique senectus et netus et malesuada fames ac turpis egestas.<br/> Nulla at risus. Quisque purus magna, auctor et<br/> sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing</h4>
                 </div>
                 <div className='col p-5  d-flex justify-content-center'>
-                    <img src={horarios}  width={'600px'} style={{minWidth: '450px', borderTopRightRadius: '150px', borderBottomLeftRadius: '150px'}} alt='balao'></img>
+                    <img src={horarios}  width={'600px'} style={{minWidth: '400px', borderTopRightRadius: '150px', borderBottomLeftRadius: '150px'}} alt='balao'></img>
                 </div>
             </div>
         </div>
