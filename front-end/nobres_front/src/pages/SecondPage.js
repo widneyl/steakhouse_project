@@ -18,10 +18,10 @@ export default function SecondPage() {
                     <h1 className='display-5 mt-5' style={color} id='fontNob'>CONHEÇA NOSSO CARDÁPIO</h1>
                 </div>
                 <div className='d-flex justify-content-center flex-wrap'>
-                    <img width={'400px'} src={c1} alt='cardapio' className='m-2 rounded-3'></img>
-                    <img width={'400px'} src={c2} alt='cardapio' className='m-2 rounded-3'></img>
-                    <img width={'400px'} src={c3} alt='cardapio' className='m-2 rounded-3'></img>
-                    <img width={'400px'} src={c4} alt='cardapio' className='m-2 rounded-3'></img>
+                    <img width={'400px'} style={{minWidth: '330px'}} src={c1} alt='cardapio' className='m-2 rounded-3'></img>
+                    <img width={'400px'} style={{minWidth: '330px'}} src={c2} alt='cardapio' className='m-2 rounded-3'></img>
+                    <img width={'400px'} style={{minWidth: '330px'}} src={c3} alt='cardapio' className='m-2 rounded-3'></img>
+                    <img width={'400px'} style={{minWidth: '330px'}} src={c4} alt='cardapio' className='m-2 rounded-3'></img>
                 </div>
             </div>
         </div>
